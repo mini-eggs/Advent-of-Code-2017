@@ -2,8 +2,12 @@
 ;; ADVENT OF CODE ;;
 ;;;;;;;;;;;;;;;;;;;;
 
+;;;;;;;;;;;;;;
+;; COMPLETE ;;
+;;;;;;;;;;;;;;
+
 ;;;;;;;;;;
-;; DPES ;;
+;; DEPS ;;
 ;;;;;;;;;;
 
 (load "~/quicklisp/setup.lisp")
