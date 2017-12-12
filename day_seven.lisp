@@ -11,7 +11,7 @@
 ;;;;;;;;;;
 
 (load "~/quicklisp/setup.lisp")
-(load "advent_of_code_core.lisp")
+(load "./advent_of_code_core.lisp")
 (ql:quickload :cl-utilities)
 
 ;;;;;;;;;;;;;;

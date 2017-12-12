@@ -6,7 +6,7 @@
 ;; DEPS ;;
 ;;;;;;;;;;
 
-(load "advent_of_code_core.lisp")
+(load "./advent_of_code_core.lisp")
 (load "~/quicklisp/setup.lisp")
 (ql:quickload :cl-utilities)
 

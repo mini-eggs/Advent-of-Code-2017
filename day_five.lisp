@@ -6,7 +6,7 @@
 ;; COMPLETE ;;
 ;;;;;;;;;;;;;;
 
-(load "advent_of_code_core.lisp")
+(load "./advent_of_code_core.lisp")
 
 (defparameter test_input (list 0 3 0 1 -3))
 

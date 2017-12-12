@@ -10,7 +10,7 @@
 ;; DEPS;;
 ;;;;;;;;;
 
-(load "advent_of_code_core.lisp")
+(load "./advent_of_code_core.lisp")
 
 ;;;;;;;;;;;;;;
 ;; PART ONE ;;

@@ -19,4 +19,3 @@
     (lambda (total item) (if (equal some_item item) (+ total 1) total))
     some_list
     :initial-value 0))
-
